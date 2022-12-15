@@ -11,4 +11,6 @@ Make sure to use JSON.stringify({object}) in order to post data.
 
 Also note, fetch() never fails unless there is something wrong with the API or network.
 
+If you are curious about this code, it adds 'User 1' to the API using the POST method.
+
 ![alt text](https://github.com/RamonJustisOrtega/Fetch-API/blob/main/code%20image.png)
