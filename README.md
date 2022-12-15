@@ -10,3 +10,5 @@ However this code uses the POST method which is explicitely defined as a paramet
 Make sure to use JSON.stringify({object}) in order to post data.
 
 Also note, fetch() never fails unless there is something wrong with the API or network.
+
+![alt text](https://github.com/RamonJustisOrtega/Fetch-API/blob/main/code%20image.png)
